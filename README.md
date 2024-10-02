@@ -8,7 +8,7 @@ I'm a passionate **React/React Native Developer** with **4.5 years of experience
 
  💻  **Skills** : React, React Native, Node.js, PostgreSQL, JavaScript, CSS, HTML
  🚀  **Current Focus** : Full-stack application development
- 🔍  **Interests** : UI/UX design, custom hooks in React, and exploring innovative tech stacks
+ 🔍  **Interests** : Exploring innovative tech stacks
  📫  **Contact Me** : psangle41@gmail.com
 
  
