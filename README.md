@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there! I'm Priyanka
 
-<!--
-**psangle41/psangle41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **React/React Native Developer** with **4.5 years of experience** in building effective web and mobile applications. My journey in software development has equipped me with the ability to turn user needs into functional features and handle complex UI/UX tasks. I'm constantly learning and exploring new technologies. I thrive in diverse team environments and love creating scalable and reliable solutions!
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  💻  **Skills** : React, React Native, Node.js, PostgreSQL, JavaScript, CSS, HTML
+-  🚀  **Current Focus** : Full-stack application development
+-  🔍  **Interests** : UI/UX design, custom hooks in React, and exploring innovative tech stacks
+-  📫  **Contact Me** : psangle41@gmail.com
+
+## 🔧 Technologies & Tools
+
+| Technology         | Description                          |
+|--------------------|--------------------------------------|
+| **JavaScript**     | My go-to programming language        |
+| **React**          | Building dynamic user interfaces     |
+| **React Native**   | Developing cross-platform mobile apps|
+| **Node.js**        | Backend development and REST APIs    |
+| **PostgreSQL**     | Database management                  |
+| **Sass**           | Styling components with ease         |
+
+
+
+## 🌐 Connect with Me
+
+- https://www.linkedin.com/in/priyanka-sangle-767851107
+
+Feel free to reach out if you're interested in collaborating or just want to chat about tech! Let's connect and create something amazing together! 🚀
